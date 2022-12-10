@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{988687C3-B26E-4906-A68B-7009014CE372}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MinimalAPI PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MinimalAPI/Json/Banks.json">
+    <Files>
+      <File FileName="MinimalAPI/Model/failState.cs" Line="16" Column="1" IsPinned="True" />
+      <File FileName="MinimalAPI/Model/successState.cs" Line="17" Column="1" />
+      <File FileName="MinimalAPI/Json/Banks.json" Line="33" Column="34" />
+      <File FileName="MinimalAPI/Model/Bank.cs" Line="16" Column="1" />
+      <File FileName="MinimalAPI/Model/BankRequest.cs" Line="1" Column="1" />
+      <File FileName="MinimalAPI/Program.cs" Line="71" Column="1" />
+      <File FileName="MinimalAPI/Properties/launchSettings.json" Line="15" Column="46" />
+      <File FileName="MinimalAPI/Data/AppDbContext.cs" Line="15" Column="6" />
+      <File FileName="MinimalAPI/Migrations/20220919141907_1718.cs" Line="34" Column="1" />
+      <File FileName="MinimalAPI/appsettings.Development.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MinimalAPI" expanded="True" selected="True">
+            <Node name="MinimalAPI" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="Json" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Model" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

@@ -1,0 +1,43 @@
+﻿[
+    {
+      "BankName": "T.C. MERKEZ BANKASI",
+      "Code": "0001"
+    },
+
+    {
+      "BankName": "İLLER BANKASI A.Ş.",
+      "Code": "0004"
+    },
+
+    {
+      "BankName": "T.C.ZİRAAT BANKASI A.Ş.",
+      "Code": "0010"
+    },
+
+    {
+      "BankName": "T. HALK BANKASI A.Ş.",
+      "Code": "0012"
+    },
+
+    {
+      "BankName": "T. SINAİ KALKINMA BANKASI A.Ş.",
+      "Code": "0014"
+    },
+
+    {
+      "BankName": "T. VAKIFLAR BANKASI T.A.O",
+      "Code": "0015"
+    },
+
+    {
+      "BankName": "T. EXİMBANK",
+      "Code": "0016"
+    },
+
+    {
+      "BankName": "T. KALKINMA BANKASI A.Ş.",
+      "Code": "0017"
+    }
+
+  ]
+
