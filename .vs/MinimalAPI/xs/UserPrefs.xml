@@ -1,9 +1,10 @@
 ﻿<Properties StartupConfiguration="{988687C3-B26E-4906-A68B-7009014CE372}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.MinimalAPI PreferredExecutionTarget="/Applications/Safari.app" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="MinimalAPI/Json/Banks.json">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MinimalAPI/Program.cs">
     <Files>
       <File FileName="MinimalAPI/Model/failState.cs" Line="16" Column="1" IsPinned="True" />
       <File FileName="MinimalAPI/Model/successState.cs" Line="17" Column="1" />
@@ -23,7 +24,6 @@
             <Node name="MinimalAPI" expanded="True">
               <Node name="Data" expanded="True" />
               <Node name="Json" expanded="True" />
-              <Node name="Migrations" expanded="True" />
               <Node name="Model" expanded="True" />
               <Node name="Properties" expanded="True" />
               <Node name="appsettings.json" expanded="True" />
@@ -36,7 +36,6 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MinimalAPI PreferredExecutionTarget="/Applications/Safari.app" />
 </Properties>
